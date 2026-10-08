@@ -11,5 +11,5 @@ topics:
 Một topic có thể được chia thành nhiều partition để lưu và xử lý dữ liệu.
 
 ## Liên quan
-
+- [[Kafka]]
 - [[Kafka Topic]]
