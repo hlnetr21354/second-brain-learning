@@ -39,10 +39,14 @@
             "id": "b761c88e5dfe11db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kafka"
             }
           }
         ],
@@ -216,10 +220,10 @@
   "active": "b761c88e5dfe11db",
   "lastOpenFiles": [
     "Linux.md",
-    "DevOps.md",
-    "Linux.txt",
-    "Kafka Partition.md",
     "Kafka Topic.md",
-    "Kafka.md"
+    "Kafka Partition.md",
+    "Kafka.md",
+    "DevOps.md",
+    "Linux.txt"
   ]
 }

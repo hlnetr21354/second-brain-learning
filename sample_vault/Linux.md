@@ -6,6 +6,8 @@ domains:
   - software
 topics:
   - linux
+status:
+  - active
 ---
 
 # Linux

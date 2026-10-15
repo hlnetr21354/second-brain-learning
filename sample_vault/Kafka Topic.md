@@ -4,6 +4,8 @@ domains:
   - data-engineering
 topics:
   - kafka
+status:
+  - active
 ---
 
 # Kafka Topic
